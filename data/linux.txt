@@ -1,0 +1,3 @@
+Linux is an open-source operating system.
+Ubuntu is a Linux distribution.
+Linux is popular on servers.

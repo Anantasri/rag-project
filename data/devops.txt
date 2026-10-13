@@ -1,0 +1,3 @@
+DevOps combines development and operations.
+Automation is a core DevOps principle.
+CI/CD speeds software delivery.

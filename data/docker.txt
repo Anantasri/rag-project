@@ -1,0 +1,3 @@
+Docker is a container platform.
+Docker packages applications and dependencies.
+Containers are lightweight.
